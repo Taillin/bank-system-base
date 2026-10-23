@@ -54,4 +54,4 @@ src/
 
 ## Author
 
-**Yermakov Ilya** — IT-2503
+**Yermakov Ilya**
