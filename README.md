@@ -1,5 +1,4 @@
-# Student: Yermakov Ilya
-# Group: IT-2503
+# Name: Yermakov Ilya
 
 
 # Task 1
